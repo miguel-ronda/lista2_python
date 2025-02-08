@@ -1,0 +1,5 @@
+#escreva um programa que peca ao ususario paraa inserir dois numeros inteiros,soma-os e exiba a mensagem: "o tptal e: [soma dos valores].
+num1 = int (input ("escreva o primeiro numero"))
+num2 = int (input ("escreva o segundo numero"))
+result = num1 + num2
+print ("o total e:",result)
